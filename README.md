@@ -1,1 +1,0 @@
-# JS-Project-Typing-Speed-Test-Game
