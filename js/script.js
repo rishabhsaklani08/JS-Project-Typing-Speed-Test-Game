@@ -1,3 +1,4 @@
+// Project By Rishabh Saklani
 const typingText = document.querySelector(".typing-text p"),
 inpField = document.querySelector(".wrapper .input-field"),
 tryAgainBtn = document.querySelector(".content button"),
